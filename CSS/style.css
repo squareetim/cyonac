@@ -92,3 +92,11 @@ hr{
     color: white;
     background-color: black;
 }
+marquee{
+    width: 100%;
+    background-color: white;
+    color: black;
+    font-weight: 600;
+    /*font-weight: bolder;*/
+    text-transform: uppercase;
+}
