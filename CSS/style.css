@@ -100,3 +100,9 @@ marquee{
     /*font-weight: bolder;*/
     text-transform: uppercase;
 }
+.sert{
+    float: right;
+    padding: 0 15px;
+    /*clear: right;*/
+    /*overflow: auto;*/
+}
