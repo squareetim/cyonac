@@ -102,7 +102,17 @@ marquee{
 }
 .sert{
     float: right;
-    padding: 0 15px;
-    /*clear: right;*/
-    /*overflow: auto;*/
+}
+.sert1{
+    float: left;
+}
+.made{
+    padding-top: 20px;
+}
+#time_dem{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 0px;
+    background-color: #0f0f0f;
+    color: white;
 }
